@@ -1,0 +1,24 @@
+    
+        <ul class="nav footer-nav">
+            <li>
+                <a href="https://www.instagram.com/jaffaspan/" target="_blank">
+                <img src="./IMG/insta.png" alt="">
+                </a>
+            </li>
+        </ul>
+
+
+        
+        .main-footer-container ul{
+    flex-grow: 1;
+    text-align: end;
+    width: 100px;
+}
+.footer-nav li{
+    padding: 0 .5em;
+}
+
+.footer-nav img{
+    width: 30px;
+    height: 30px;
+}
